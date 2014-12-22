@@ -32,13 +32,37 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Greuous grones for the poore Done by a well-willer, who wisheth, that the poore of England might be 
+
+1. TO THE RIGHT
+Honourable, Right Worshipfull,
+and worthy Company of
+the Virginian and Sommer-Iland
+Plantations.
+
 #####Body#####
 
-1. The Euill of Idlenesse.
+1. A Diuision of the estate
+of the Poore.
+
+1. The Misery of the Poore, with the danger
+of their soules.
+
+1. The Euill of Idlenesse, and what men
+do for want of Exercise, and Maintenance.
+
+    _ The Euill of Idlenesse.
+
+1. Reasons to releeue the Impotent,
+and to reforme the Idle.
+
+1. THE POORE WITHout
+Releefe.
+
+1. What filleth this Land with
+Poore.
 
 #####Back#####
-Greuous grones for the poore Done by a well-willer, who wisheth, that the poore of England might be 
+THe Figge-tree without fruite,yet flourishing Leaues did beare:Our Sauiour Christ did Curse,which ma
 **Types of content**
 
   * There are 12 **verse** lines!
